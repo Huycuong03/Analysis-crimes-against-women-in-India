@@ -1,4 +1,4 @@
-# Indian crimes against woman
+# Indian crimes against women
 ## Cases under Crime Against Women
 1. Rape
 2. Kidnapping & Abduction of Women & Girls
