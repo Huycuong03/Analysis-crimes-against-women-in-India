@@ -29,7 +29,7 @@
 14. Total (Sum of 1-13 Above)
 ## Questions
 1. Which state is the most dangerous for women?
-2. Is it true that the region with high number of cases of molestation is more likely to have high number of cases of rape and sexual harassment?
+2. Are regions with high number of cases of molestation likely to have high number of cases of rape?
 3. Which is the most reason for women adduction?
 4. Is there a correlation betwen age and crime rate?
 5. Which age-group is the most likely to be victim of kidnapping & adduction?
