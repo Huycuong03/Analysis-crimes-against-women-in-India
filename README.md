@@ -30,7 +30,6 @@
 ## Questions
 1. Which state is the most dangerous for women?
 2. Are regions with high number of cases of molestation likely to have high number of cases of rape?
-3. Which is the most reason for women adduction?
-4. Is there a correlation betwen age and crime rate?
-5. Which age-group is the most likely to be victim of kidnapping & adduction?
-6. How did the crime rates change over time? and predict the trend in 10 years
+3. Which age-group is the most likely to be victim of kidnapping & adduction?
+4. Which is the most reason for women adduction?
+5. How did the crimes against women change over time?
